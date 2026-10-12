@@ -1,4 +1,4 @@
-# BuilderAI — Full-Stack AI Website Builder
+# BuilderAI : Full-Stack AI Website Builder
 
 BuilderAI is an end-to-end, AI-powered web development platform that generates, previews, edits, and deploys complete, multi-file React web applications from natural language prompts.
 
